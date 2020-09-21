@@ -1,0 +1,14 @@
+Paket_Islemleri.c:10:6:UINT8_ayir	24	static
+Paket_Islemleri.c:17:6:UINT8_birlestir	24	static
+Paket_Islemleri.c:24:6:INT8_ayir	24	static
+Paket_Islemleri.c:31:6:INT8_birlestir	24	static
+Paket_Islemleri.c:38:6:UINT16_ayir	24	static
+Paket_Islemleri.c:46:6:UINT16_birlestir	24	static
+Paket_Islemleri.c:54:6:INT16_ayir	24	static
+Paket_Islemleri.c:62:6:INT16_birlestir	24	static
+Paket_Islemleri.c:70:6:FLOAT32_ayir	24	static
+Paket_Islemleri.c:80:6:FLOAT32_birlestir	24	static
+Paket_Islemleri.c:90:6:UINT32_ayir	24	static
+Paket_Islemleri.c:100:6:UINT32_birlestir	24	static
+Paket_Islemleri.c:110:6:INT32_ayir	24	static
+Paket_Islemleri.c:120:6:INT32_birlestir	24	static

@@ -1,0 +1,4 @@
+HaberlesmeProtokolu.c:10:6:baglanti_ok_paket_olustur	24	static
+HaberlesmeProtokolu.c:18:6:program_ok_paket_olustur	24	static
+HaberlesmeProtokolu.c:28:6:USB_PaketGonder	24	static
+HaberlesmeProtokolu.c:45:6:USB_PaketCoz	32	static
